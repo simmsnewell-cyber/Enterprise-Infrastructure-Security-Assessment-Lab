@@ -32,3 +32,20 @@ To isolate the lab while keeping full control over how traffic moves, I set up f
 * Fixed its network settings to point its DNS requests straight to the Domain Controller (`172.16.1.10`).
 * Successfully joined the machine to the **`lab.local`** domain, verifying that it registers as a managed asset under the controller.
 
+* ---
+
+## 📷 Phase 1 Lab Verification Screenshots
+
+### VirtualBox Network Setup & Interface Configuration
+![Adapter 1 - WAN Setup](Adapter 1.png)
+![Adapter 2 - LAN Setup](Adapter 2.png)
+![Adapter 3 - OPT1 Setup](Adapter 3.png)
+![Adapter 4 - Mirror Setup](Adapter 4.png)
+
+### Perimeter Security & Network Safety Containment
+![pfSense Interface Status Console](PfSense.png)
+![pfSense LAN Block Rules Table](LAN Private IP Block.png)
+![pfSense OPT1 Block Rules Table](OPT1 Private IP Block.png)
+
+
+
