@@ -48,5 +48,3 @@ To isolate the lab while keeping full control over how traffic moves, I set up f
 ![pfSense OPT1 Block Rules Table](images/OPT1%20Private%20IP%20Block.png)
 
 
-
-
