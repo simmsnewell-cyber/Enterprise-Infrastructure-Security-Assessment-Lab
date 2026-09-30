@@ -37,15 +37,15 @@ To isolate the lab while keeping full control over how traffic moves, I set up f
 ## 📷 Phase 1 Lab Verification Screenshots
 
 ### VirtualBox Network Setup & Interface Configuration
-![Adapter 1 - WAN Setup](Adapter%201.png)
-![Adapter 2 - LAN Setup](Adapter%202.png)
-![Adapter 3 - OPT1 Setup](Adapter%203.png)
-![Adapter 4 - Mirror Setup](Adapter%204.png)
+![Adapter 1 - WAN Setup](images/Adapter%201.png)
+![Adapter 2 - LAN Setup](images/Adapter%202.png)
+![Adapter 3 - OPT1 Setup](images/Adapter%203.png)
+![Adapter 4 - Mirror Setup](images/Adapter%204.png)
 
 ### Perimeter Security & Network Safety Containment
-![pfSense Interface Status Console](PfSense.png)
-![pfSense LAN Block Rules Table](LAN%20Private%20IP%20Block.png)
-![pfSense OPT1 Block Rules Table](OPT1%20Private%20IP%20Block.png)
+![pfSense Interface Status Console](images/PfSense.png)
+![pfSense LAN Block Rules Table](images/LAN%20Private%20IP%20Block.png)
+![pfSense OPT1 Block Rules Table](images/OPT1%20Private%20IP%20Block.png)
 
 
 
